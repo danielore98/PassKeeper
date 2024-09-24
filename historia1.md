@@ -9,7 +9,7 @@ Desarrolla una herramienta para que los usuarios puedan almacenar y gestionar su
 | Boza More, Luis Eduardo | Product Owner |
 
 ## Historia de Usuario
-| Identificador | H001 |
+| Identificador | E001 |
 |---------------------|-----|
 | Nombre (alias) | Login |
 | Descripción | Yo como cliente , necesito acceso al sistema , con la finalidad de realizar mis pedidos. |
